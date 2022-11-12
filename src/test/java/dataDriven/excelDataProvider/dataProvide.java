@@ -22,6 +22,9 @@ public class dataProvide {
 	@Test(dataProvider = "driveTest")
 	public void testCaseData(String greeting, String communication, String id) {
 		System.out.println(greeting + communication + id);
+		System.out.println("Hello Sachin");
+		System.out.println("Hello Rohit");
+		System.out.println("Hello Sunny");
 
 	}
 
