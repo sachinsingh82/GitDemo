@@ -25,6 +25,8 @@ public class dataProvide {
 		System.out.println("Hello Sachin");
 		System.out.println("Hello Rohit");
 		System.out.println("Hello Sunny");
+		System.out.println("Hello Anju");
+		System.out.println("Hello Amit");
 
 	}
 
